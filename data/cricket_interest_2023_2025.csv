@@ -1,0 +1,73 @@
+market_id,year,trends_dma,interest_index
+1,2023,New York NY,83
+1,2024,New York NY,67
+1,2025,New York NY,68
+2,2023,Dallas-Ft. Worth TX,96
+2,2024,Dallas-Ft. Worth TX,77
+2,2025,Dallas-Ft. Worth TX,74
+3,2023,Houston TX,79
+3,2024,Houston TX,63
+3,2025,Houston TX,65
+4,2023,Los Angeles CA,36
+4,2024,Los Angeles CA,31
+4,2025,Los Angeles CA,36
+5,2023,San Francisco-Oakland-San Jose CA,100
+5,2024,San Francisco-Oakland-San Jose CA,68
+5,2025,San Francisco-Oakland-San Jose CA,78
+6,2023,Seattle-Tacoma WA,60
+6,2024,Seattle-Tacoma WA,47
+6,2025,Seattle-Tacoma WA,55
+7,2023,Washington DC (Hagerstown MD),74
+7,2024,Washington DC (Hagerstown MD),55
+7,2025,Washington DC (Hagerstown MD),64
+8,2023,Philadelphia PA,58
+8,2024,Philadelphia PA,49
+8,2025,Philadelphia PA,52
+9,2023,Chicago IL,67
+9,2024,Chicago IL,49
+9,2025,Chicago IL,52
+10,2023,Atlanta GA,66
+10,2024,Atlanta GA,53
+10,2025,Atlanta GA,54
+11,2023,Boston MA-Manchester NH,54
+11,2024,Boston MA-Manchester NH,39
+11,2025,Boston MA-Manchester NH,42
+12,2023,Miami-Ft. Lauderdale FL,42
+12,2024,Miami-Ft. Lauderdale FL,37
+12,2025,Miami-Ft. Lauderdale FL,41
+13,2023,Orlando-Daytona Beach-Melbourne FL,48
+13,2024,Orlando-Daytona Beach-Melbourne FL,42
+13,2025,Orlando-Daytona Beach-Melbourne FL,41
+14,2023,Phoenix AZ,49
+14,2024,Phoenix AZ,44
+14,2025,Phoenix AZ,49
+15,2023,Austin TX,86
+15,2024,Austin TX,70
+15,2025,Austin TX,71
+16,2023,Raleigh-Durham (Fayetteville) NC,69
+16,2024,Raleigh-Durham (Fayetteville) NC,58
+16,2025,Raleigh-Durham (Fayetteville) NC,59
+17,2023,Charlotte NC,61
+17,2024,Charlotte NC,46
+17,2025,Charlotte NC,55
+18,2023,Detroit MI,60
+18,2024,Detroit MI,43
+18,2025,Detroit MI,45
+19,2023,Minneapolis-St. Paul MN,36
+19,2024,Minneapolis-St. Paul MN,28
+19,2025,Minneapolis-St. Paul MN,30
+20,2023,Denver CO,35
+20,2024,Denver CO,34
+20,2025,Denver CO,35
+21,2023,San Diego CA,45
+21,2024,San Diego CA,38
+21,2025,San Diego CA,35
+22,2023,Sacramento-Stockton-Modesto CA,67
+22,2024,Sacramento-Stockton-Modesto CA,49
+22,2025,Sacramento-Stockton-Modesto CA,58
+23,2023,Nashville TN,45
+23,2024,Nashville TN,38
+23,2025,Nashville TN,44
+24,2023,St. Louis MO,45
+24,2024,St. Louis MO,37
+24,2025,St. Louis MO,43

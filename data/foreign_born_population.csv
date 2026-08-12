@@ -1,0 +1,361 @@
+market_id,year,country,cricket_region,population,acs_variable
+1,2024,Australia and New Zealand Subregion,Australia & New Zealand,15750,B05006_131E
+1,2024,Afghanistan,South Asia,6793,B05006_057E
+1,2024,Bangladesh,South Asia,126468,B05006_058E
+1,2024,India,South Asia,365069,B05006_060E
+1,2024,Nepal,South Asia,18456,B05006_063E
+1,2024,Pakistan,South Asia,77040,B05006_064E
+1,2024,Sri Lanka,South Asia,8903,B05006_065E
+1,2024,South Africa,Southern Africa,10320,B05006_117E
+1,2024,Zimbabwe,Southern Africa,2046,B05006_103E
+1,2024,Ireland,UK & Ireland,29179,B05006_005E
+1,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,66817,B05006_008E
+1,2024,Barbados,West Indies,24682,B05006_142E
+1,2024,Guyana,West Indies,177808,B05006_171E
+1,2024,Jamaica,West Indies,250967,B05006_148E
+1,2024,Trinidad and Tobago,West Indies,99692,B05006_151E
+2,2024,Australia and New Zealand Subregion,Australia & New Zealand,2531,B05006_131E
+2,2024,Afghanistan,South Asia,6342,B05006_057E
+2,2024,Bangladesh,South Asia,9009,B05006_058E
+2,2024,India,South Asia,181474,B05006_060E
+2,2024,Nepal,South Asia,19246,B05006_063E
+2,2024,Pakistan,South Asia,24176,B05006_064E
+2,2024,Sri Lanka,South Asia,2112,B05006_065E
+2,2024,South Africa,Southern Africa,4618,B05006_117E
+2,2024,Zimbabwe,Southern Africa,3151,B05006_103E
+2,2024,Ireland,UK & Ireland,1230,B05006_005E
+2,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,15437,B05006_008E
+2,2024,Barbados,West Indies,381,B05006_142E
+2,2024,Guyana,West Indies,1369,B05006_171E
+2,2024,Jamaica,West Indies,4736,B05006_148E
+2,2024,Trinidad and Tobago,West Indies,1389,B05006_151E
+3,2024,Australia and New Zealand Subregion,Australia & New Zealand,3138,B05006_131E
+3,2024,Afghanistan,South Asia,5995,B05006_057E
+3,2024,Bangladesh,South Asia,4732,B05006_058E
+3,2024,India,South Asia,99142,B05006_060E
+3,2024,Nepal,South Asia,4308,B05006_063E
+3,2024,Pakistan,South Asia,35165,B05006_064E
+3,2024,Sri Lanka,South Asia,2819,B05006_065E
+3,2024,South Africa,Southern Africa,5243,B05006_117E
+3,2024,Zimbabwe,Southern Africa,716,B05006_103E
+3,2024,Ireland,UK & Ireland,893,B05006_005E
+3,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,21105,B05006_008E
+3,2024,Barbados,West Indies,777,B05006_142E
+3,2024,Guyana,West Indies,1389,B05006_171E
+3,2024,Jamaica,West Indies,9924,B05006_148E
+3,2024,Trinidad and Tobago,West Indies,6853,B05006_151E
+4,2024,Australia and New Zealand Subregion,Australia & New Zealand,12611,B05006_131E
+4,2024,Afghanistan,South Asia,8798,B05006_057E
+4,2024,Bangladesh,South Asia,10973,B05006_058E
+4,2024,India,South Asia,93805,B05006_060E
+4,2024,Nepal,South Asia,4351,B05006_063E
+4,2024,Pakistan,South Asia,13184,B05006_064E
+4,2024,Sri Lanka,South Asia,5246,B05006_065E
+4,2024,South Africa,Southern Africa,8442,B05006_117E
+4,2024,Zimbabwe,Southern Africa,584,B05006_103E
+4,2024,Ireland,UK & Ireland,3847,B05006_005E
+4,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,45537,B05006_008E
+4,2024,Barbados,West Indies,469,B05006_142E
+4,2024,Guyana,West Indies,1867,B05006_171E
+4,2024,Jamaica,West Indies,6222,B05006_148E
+4,2024,Trinidad and Tobago,West Indies,2020,B05006_151E
+5,2024,Australia and New Zealand Subregion,Australia & New Zealand,6777,B05006_131E
+5,2024,Afghanistan,South Asia,12991,B05006_057E
+5,2024,Bangladesh,South Asia,2339,B05006_058E
+5,2024,India,South Asia,159031,B05006_060E
+5,2024,Nepal,South Asia,7388,B05006_063E
+5,2024,Pakistan,South Asia,9979,B05006_064E
+5,2024,Sri Lanka,South Asia,1913,B05006_065E
+5,2024,South Africa,Southern Africa,3208,B05006_117E
+5,2024,Zimbabwe,Southern Africa,718,B05006_103E
+5,2024,Ireland,UK & Ireland,6055,B05006_005E
+5,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,23915,B05006_008E
+5,2024,Barbados,West Indies,110,B05006_142E
+5,2024,Guyana,West Indies,538,B05006_171E
+5,2024,Jamaica,West Indies,2467,B05006_148E
+5,2024,Trinidad and Tobago,West Indies,499,B05006_151E
+6,2024,Australia and New Zealand Subregion,Australia & New Zealand,4234,B05006_131E
+6,2024,Afghanistan,South Asia,7797,B05006_057E
+6,2024,Bangladesh,South Asia,1526,B05006_058E
+6,2024,India,South Asia,106441,B05006_060E
+6,2024,Nepal,South Asia,2513,B05006_063E
+6,2024,Pakistan,South Asia,5072,B05006_064E
+6,2024,Sri Lanka,South Asia,748,B05006_065E
+6,2024,South Africa,Southern Africa,3063,B05006_117E
+6,2024,Zimbabwe,Southern Africa,396,B05006_103E
+6,2024,Ireland,UK & Ireland,1773,B05006_005E
+6,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,13685,B05006_008E
+6,2024,Barbados,West Indies,44,B05006_142E
+6,2024,Guyana,West Indies,223,B05006_171E
+6,2024,Jamaica,West Indies,2003,B05006_148E
+6,2024,Trinidad and Tobago,West Indies,882,B05006_151E
+7,2024,Australia and New Zealand Subregion,Australia & New Zealand,3641,B05006_131E
+7,2024,Afghanistan,South Asia,23182,B05006_057E
+7,2024,Bangladesh,South Asia,17511,B05006_058E
+7,2024,India,South Asia,110777,B05006_060E
+7,2024,Nepal,South Asia,13732,B05006_063E
+7,2024,Pakistan,South Asia,31541,B05006_064E
+7,2024,Sri Lanka,South Asia,4870,B05006_065E
+7,2024,South Africa,Southern Africa,4480,B05006_117E
+7,2024,Zimbabwe,Southern Africa,1387,B05006_103E
+7,2024,Ireland,UK & Ireland,2426,B05006_005E
+7,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,19706,B05006_008E
+7,2024,Barbados,West Indies,1212,B05006_142E
+7,2024,Guyana,West Indies,7372,B05006_171E
+7,2024,Jamaica,West Indies,25394,B05006_148E
+7,2024,Trinidad and Tobago,West Indies,9161,B05006_151E
+8,2024,Australia and New Zealand Subregion,Australia & New Zealand,1634,B05006_131E
+8,2024,Afghanistan,South Asia,867,B05006_057E
+8,2024,Bangladesh,South Asia,10478,B05006_058E
+8,2024,India,South Asia,88353,B05006_060E
+8,2024,Nepal,South Asia,1317,B05006_063E
+8,2024,Pakistan,South Asia,9739,B05006_064E
+8,2024,Sri Lanka,South Asia,1120,B05006_065E
+8,2024,South Africa,Southern Africa,1964,B05006_117E
+8,2024,Zimbabwe,Southern Africa,726,B05006_103E
+8,2024,Ireland,UK & Ireland,2863,B05006_005E
+8,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,15010,B05006_008E
+8,2024,Barbados,West Indies,1102,B05006_142E
+8,2024,Guyana,West Indies,3304,B05006_171E
+8,2024,Jamaica,West Indies,23204,B05006_148E
+8,2024,Trinidad and Tobago,West Indies,6381,B05006_151E
+9,2024,Australia and New Zealand Subregion,Australia & New Zealand,3653,B05006_131E
+9,2024,Afghanistan,South Asia,2567,B05006_057E
+9,2024,Bangladesh,South Asia,2888,B05006_058E
+9,2024,India,South Asia,153413,B05006_060E
+9,2024,Nepal,South Asia,2547,B05006_063E
+9,2024,Pakistan,South Asia,30340,B05006_064E
+9,2024,Sri Lanka,South Asia,1331,B05006_065E
+9,2024,South Africa,Southern Africa,3012,B05006_117E
+9,2024,Zimbabwe,Southern Africa,723,B05006_103E
+9,2024,Ireland,UK & Ireland,6486,B05006_005E
+9,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,15997,B05006_008E
+9,2024,Barbados,West Indies,170,B05006_142E
+9,2024,Guyana,West Indies,757,B05006_171E
+9,2024,Jamaica,West Indies,7926,B05006_148E
+9,2024,Trinidad and Tobago,West Indies,821,B05006_151E
+10,2024,Australia and New Zealand Subregion,Australia & New Zealand,2263,B05006_131E
+10,2024,Afghanistan,South Asia,4117,B05006_057E
+10,2024,Bangladesh,South Asia,8919,B05006_058E
+10,2024,India,South Asia,99092,B05006_060E
+10,2024,Nepal,South Asia,2486,B05006_063E
+10,2024,Pakistan,South Asia,9342,B05006_064E
+10,2024,Sri Lanka,South Asia,704,B05006_065E
+10,2024,South Africa,Southern Africa,5849,B05006_117E
+10,2024,Zimbabwe,Southern Africa,1118,B05006_103E
+10,2024,Ireland,UK & Ireland,1031,B05006_005E
+10,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,15514,B05006_008E
+10,2024,Barbados,West Indies,1571,B05006_142E
+10,2024,Guyana,West Indies,8335,B05006_171E
+10,2024,Jamaica,West Indies,48408,B05006_148E
+10,2024,Trinidad and Tobago,West Indies,8363,B05006_151E
+11,2024,Australia and New Zealand Subregion,Australia & New Zealand,3305,B05006_131E
+11,2024,Afghanistan,South Asia,838,B05006_057E
+11,2024,Bangladesh,South Asia,4651,B05006_058E
+11,2024,India,South Asia,69537,B05006_060E
+11,2024,Nepal,South Asia,5058,B05006_063E
+11,2024,Pakistan,South Asia,4615,B05006_064E
+11,2024,Sri Lanka,South Asia,1488,B05006_065E
+11,2024,South Africa,Southern Africa,2735,B05006_117E
+11,2024,Zimbabwe,Southern Africa,580,B05006_103E
+11,2024,Ireland,UK & Ireland,10261,B05006_005E
+11,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,18592,B05006_008E
+11,2024,Barbados,West Indies,3122,B05006_142E
+11,2024,Guyana,West Indies,1468,B05006_171E
+11,2024,Jamaica,West Indies,12337,B05006_148E
+11,2024,Trinidad and Tobago,West Indies,5996,B05006_151E
+12,2024,Australia and New Zealand Subregion,Australia & New Zealand,1806,B05006_131E
+12,2024,Afghanistan,South Asia,323,B05006_057E
+12,2024,Bangladesh,South Asia,6229,B05006_058E
+12,2024,India,South Asia,25856,B05006_060E
+12,2024,Nepal,South Asia,815,B05006_063E
+12,2024,Pakistan,South Asia,6377,B05006_064E
+12,2024,Sri Lanka,South Asia,580,B05006_065E
+12,2024,South Africa,Southern Africa,4760,B05006_117E
+12,2024,Zimbabwe,Southern Africa,390,B05006_103E
+12,2024,Ireland,UK & Ireland,2567,B05006_005E
+12,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,18088,B05006_008E
+12,2024,Barbados,West Indies,2467,B05006_142E
+12,2024,Guyana,West Indies,11592,B05006_171E
+12,2024,Jamaica,West Indies,143128,B05006_148E
+12,2024,Trinidad and Tobago,West Indies,23451,B05006_151E
+13,2024,Australia and New Zealand Subregion,Australia & New Zealand,1146,B05006_131E
+13,2024,Afghanistan,South Asia,81,B05006_057E
+13,2024,Bangladesh,South Asia,1965,B05006_058E
+13,2024,India,South Asia,17487,B05006_060E
+13,2024,Nepal,South Asia,435,B05006_063E
+13,2024,Pakistan,South Asia,3645,B05006_064E
+13,2024,Sri Lanka,South Asia,473,B05006_065E
+13,2024,South Africa,Southern Africa,864,B05006_117E
+13,2024,Zimbabwe,Southern Africa,454,B05006_103E
+13,2024,Ireland,UK & Ireland,971,B05006_005E
+13,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,11952,B05006_008E
+13,2024,Barbados,West Indies,697,B05006_142E
+13,2024,Guyana,West Indies,11263,B05006_171E
+13,2024,Jamaica,West Indies,28505,B05006_148E
+13,2024,Trinidad and Tobago,West Indies,7240,B05006_151E
+14,2024,Australia and New Zealand Subregion,Australia & New Zealand,2104,B05006_131E
+14,2024,Afghanistan,South Asia,2096,B05006_057E
+14,2024,Bangladesh,South Asia,1761,B05006_058E
+14,2024,India,South Asia,42230,B05006_060E
+14,2024,Nepal,South Asia,1097,B05006_063E
+14,2024,Pakistan,South Asia,1818,B05006_064E
+14,2024,Sri Lanka,South Asia,476,B05006_065E
+14,2024,South Africa,Southern Africa,1836,B05006_117E
+14,2024,Zimbabwe,Southern Africa,409,B05006_103E
+14,2024,Ireland,UK & Ireland,1289,B05006_005E
+14,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,12505,B05006_008E
+14,2024,Barbados,West Indies,836,B05006_142E
+14,2024,Guyana,West Indies,351,B05006_171E
+14,2024,Jamaica,West Indies,2745,B05006_148E
+14,2024,Trinidad and Tobago,West Indies,801,B05006_151E
+15,2024,Australia and New Zealand Subregion,Australia & New Zealand,1473,B05006_131E
+15,2024,Afghanistan,South Asia,3101,B05006_057E
+15,2024,Bangladesh,South Asia,2474,B05006_058E
+15,2024,India,South Asia,48009,B05006_060E
+15,2024,Nepal,South Asia,4651,B05006_063E
+15,2024,Pakistan,South Asia,4295,B05006_064E
+15,2024,Sri Lanka,South Asia,577,B05006_065E
+15,2024,South Africa,Southern Africa,1591,B05006_117E
+15,2024,Zimbabwe,Southern Africa,237,B05006_103E
+15,2024,Ireland,UK & Ireland,943,B05006_005E
+15,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,7549,B05006_008E
+15,2024,Barbados,West Indies,78,B05006_142E
+15,2024,Guyana,West Indies,223,B05006_171E
+15,2024,Jamaica,West Indies,1027,B05006_148E
+15,2024,Trinidad and Tobago,West Indies,1289,B05006_151E
+16,2024,Australia and New Zealand Subregion,Australia & New Zealand,594,B05006_131E
+16,2024,Afghanistan,South Asia,404,B05006_057E
+16,2024,Bangladesh,South Asia,1552,B05006_058E
+16,2024,India,South Asia,38968,B05006_060E
+16,2024,Nepal,South Asia,1312,B05006_063E
+16,2024,Pakistan,South Asia,1907,B05006_064E
+16,2024,Sri Lanka,South Asia,619,B05006_065E
+16,2024,South Africa,Southern Africa,901,B05006_117E
+16,2024,Zimbabwe,Southern Africa,162,B05006_103E
+16,2024,Ireland,UK & Ireland,483,B05006_005E
+16,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,3952,B05006_008E
+16,2024,Barbados,West Indies,83,B05006_142E
+16,2024,Guyana,West Indies,196,B05006_171E
+16,2024,Jamaica,West Indies,1711,B05006_148E
+16,2024,Trinidad and Tobago,West Indies,726,B05006_151E
+17,2024,Australia and New Zealand Subregion,Australia & New Zealand,712,B05006_131E
+17,2024,Afghanistan,South Asia,798,B05006_057E
+17,2024,Bangladesh,South Asia,298,B05006_058E
+17,2024,India,South Asia,38714,B05006_060E
+17,2024,Nepal,South Asia,2783,B05006_063E
+17,2024,Pakistan,South Asia,1649,B05006_064E
+17,2024,Sri Lanka,South Asia,139,B05006_065E
+17,2024,South Africa,Southern Africa,2090,B05006_117E
+17,2024,Zimbabwe,Southern Africa,393,B05006_103E
+17,2024,Ireland,UK & Ireland,383,B05006_005E
+17,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,6971,B05006_008E
+17,2024,Barbados,West Indies,482,B05006_142E
+17,2024,Guyana,West Indies,1168,B05006_171E
+17,2024,Jamaica,West Indies,4848,B05006_148E
+17,2024,Trinidad and Tobago,West Indies,1480,B05006_151E
+18,2024,Australia and New Zealand Subregion,Australia & New Zealand,1282,B05006_131E
+18,2024,Afghanistan,South Asia,432,B05006_057E
+18,2024,Bangladesh,South Asia,20469,B05006_058E
+18,2024,India,South Asia,61618,B05006_060E
+18,2024,Nepal,South Asia,814,B05006_063E
+18,2024,Pakistan,South Asia,8043,B05006_064E
+18,2024,Sri Lanka,South Asia,505,B05006_065E
+18,2024,South Africa,Southern Africa,1220,B05006_117E
+18,2024,Zimbabwe,Southern Africa,102,B05006_103E
+18,2024,Ireland,UK & Ireland,555,B05006_005E
+18,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,6351,B05006_008E
+18,2024,Barbados,West Indies,35,B05006_142E
+18,2024,Guyana,West Indies,78,B05006_171E
+18,2024,Jamaica,West Indies,2943,B05006_148E
+18,2024,Trinidad and Tobago,West Indies,399,B05006_151E
+19,2024,Australia and New Zealand Subregion,Australia & New Zealand,999,B05006_131E
+19,2024,Afghanistan,South Asia,971,B05006_057E
+19,2024,Bangladesh,South Asia,1134,B05006_058E
+19,2024,India,South Asia,28214,B05006_060E
+19,2024,Nepal,South Asia,2404,B05006_063E
+19,2024,Pakistan,South Asia,2033,B05006_064E
+19,2024,Sri Lanka,South Asia,900,B05006_065E
+19,2024,South Africa,Southern Africa,1100,B05006_117E
+19,2024,Zimbabwe,Southern Africa,400,B05006_103E
+19,2024,Ireland,UK & Ireland,831,B05006_005E
+19,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,4548,B05006_008E
+19,2024,Barbados,West Indies,69,B05006_142E
+19,2024,Guyana,West Indies,3348,B05006_171E
+19,2024,Jamaica,West Indies,908,B05006_148E
+19,2024,Trinidad and Tobago,West Indies,292,B05006_151E
+20,2024,Australia and New Zealand Subregion,Australia & New Zealand,2573,B05006_131E
+20,2024,Afghanistan,South Asia,2022,B05006_057E
+20,2024,Bangladesh,South Asia,916,B05006_058E
+20,2024,India,South Asia,17950,B05006_060E
+20,2024,Nepal,South Asia,3473,B05006_063E
+20,2024,Pakistan,South Asia,1172,B05006_064E
+20,2024,Sri Lanka,South Asia,458,B05006_065E
+20,2024,South Africa,Southern Africa,1589,B05006_117E
+20,2024,Zimbabwe,Southern Africa,271,B05006_103E
+20,2024,Ireland,UK & Ireland,848,B05006_005E
+20,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,7777,B05006_008E
+20,2024,Barbados,West Indies,154,B05006_142E
+20,2024,Guyana,West Indies,91,B05006_171E
+20,2024,Jamaica,West Indies,1529,B05006_148E
+20,2024,Trinidad and Tobago,West Indies,234,B05006_151E
+21,2024,Australia and New Zealand Subregion,Australia & New Zealand,2542,B05006_131E
+21,2024,Afghanistan,South Asia,5691,B05006_057E
+21,2024,Bangladesh,South Asia,880,B05006_058E
+21,2024,India,South Asia,28707,B05006_060E
+21,2024,Nepal,South Asia,729,B05006_063E
+21,2024,Pakistan,South Asia,1873,B05006_064E
+21,2024,Sri Lanka,South Asia,319,B05006_065E
+21,2024,South Africa,Southern Africa,3390,B05006_117E
+21,2024,Zimbabwe,Southern Africa,158,B05006_103E
+21,2024,Ireland,UK & Ireland,1130,B05006_005E
+21,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,11315,B05006_008E
+21,2024,Barbados,West Indies,73,B05006_142E
+21,2024,Guyana,West Indies,350,B05006_171E
+21,2024,Jamaica,West Indies,2628,B05006_148E
+21,2024,Trinidad and Tobago,West Indies,626,B05006_151E
+22,2024,Australia and New Zealand Subregion,Australia & New Zealand,1298,B05006_131E
+22,2024,Afghanistan,South Asia,23695,B05006_057E
+22,2024,Bangladesh,South Asia,815,B05006_058E
+22,2024,India,South Asia,35328,B05006_060E
+22,2024,Nepal,South Asia,1925,B05006_063E
+22,2024,Pakistan,South Asia,6766,B05006_064E
+22,2024,Sri Lanka,South Asia,670,B05006_065E
+22,2024,South Africa,Southern Africa,1080,B05006_117E
+22,2024,Zimbabwe,Southern Africa,422,B05006_103E
+22,2024,Ireland,UK & Ireland,651,B05006_005E
+22,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,6611,B05006_008E
+22,2024,Barbados,West Indies,45,B05006_142E
+22,2024,Guyana,West Indies,78,B05006_171E
+22,2024,Jamaica,West Indies,741,B05006_148E
+22,2024,Trinidad and Tobago,West Indies,386,B05006_151E
+23,2024,Australia and New Zealand Subregion,Australia & New Zealand,762,B05006_131E
+23,2024,Afghanistan,South Asia,768,B05006_057E
+23,2024,Bangladesh,South Asia,595,B05006_058E
+23,2024,India,South Asia,11201,B05006_060E
+23,2024,Nepal,South Asia,721,B05006_063E
+23,2024,Pakistan,South Asia,881,B05006_064E
+23,2024,Sri Lanka,South Asia,89,B05006_065E
+23,2024,South Africa,Southern Africa,830,B05006_117E
+23,2024,Zimbabwe,Southern Africa,123,B05006_103E
+23,2024,Ireland,UK & Ireland,366,B05006_005E
+23,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,3221,B05006_008E
+23,2024,Barbados,West Indies,0,B05006_142E
+23,2024,Guyana,West Indies,207,B05006_171E
+23,2024,Jamaica,West Indies,2281,B05006_148E
+23,2024,Trinidad and Tobago,West Indies,165,B05006_151E
+24,2024,Australia and New Zealand Subregion,Australia & New Zealand,710,B05006_131E
+24,2024,Afghanistan,South Asia,862,B05006_057E
+24,2024,Bangladesh,South Asia,417,B05006_058E
+24,2024,India,South Asia,20407,B05006_060E
+24,2024,Nepal,South Asia,852,B05006_063E
+24,2024,Pakistan,South Asia,1811,B05006_064E
+24,2024,Sri Lanka,South Asia,201,B05006_065E
+24,2024,South Africa,Southern Africa,544,B05006_117E
+24,2024,Zimbabwe,Southern Africa,208,B05006_103E
+24,2024,Ireland,UK & Ireland,207,B05006_005E
+24,2024,United Kingdom (inc. Crown Dependencies),UK & Ireland,3152,B05006_008E
+24,2024,Barbados,West Indies,36,B05006_142E
+24,2024,Guyana,West Indies,70,B05006_171E
+24,2024,Jamaica,West Indies,973,B05006_148E
+24,2024,Trinidad and Tobago,West Indies,306,B05006_151E
